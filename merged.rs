@@ -493,7 +493,6 @@ pub fn divide(a: i32, b: i32) -> Result<f32, &'static str> {
     }
 }
 
-
 fn main() {
     let sum = add(5, 3);
     println!("5 + 3 = {}", sum);
